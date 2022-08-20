@@ -2,3 +2,6 @@
 simon
 peter 
 paul
+funke
+ola
+habeeb
